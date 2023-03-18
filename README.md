@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Inana 👩🏻‍💻</h1>
 <h3 align="center">A passionate Frontend Developer from Smolyan, Bulgaria</h3>
 
-- 📌 Onceuponaprogrammer 
+- 📌 **Onceuponaprogrammer** 💎
 
 - 🔭 I’m currently working on **SoftUni Svetlina as Content Creator**
 
