@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello, I'm Inana!
 
-<!--
-**inanna-eftimova/inanna-eftimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Computer Science student** at **Sofia University St. Kliment Ohridski**  
+💻 Passionate about **software development**, **education**, and **automation**  
+📚 Currently expanding my knowledge in **Java**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools I work with:
+- Languages: `JavaScript`, `TypeScript`, `C++`, `Java (learning)`
+- Frontend: `React`, `Angular`, `HTML5`, `CSS3`
+- Tools: `Git`, `GitHub`, `VS Code`, `Trello`, `Jira`
+
+---
+
+### ✨ My Highlights:
+- 🧠 Content creator at **SoftUni** (Functional Programming, Cybersecurity, QA)
+- 📚 Educator & project coordinator at **Sindeo Academy**
+- 👩‍💻 I love building interactive and meaningful learning experiences  
+- ⚡ I’m an active learner and AI tools explorer
+
+---
+
+### 📫 How to reach me:
+📧 eftimovainana@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/inana-eftimova-872a7322a)  
