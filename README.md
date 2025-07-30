@@ -14,10 +14,10 @@
 ---
 
 ### ✨ My Highlights:
-- 🧠 Content creator at **SoftUni** (Functional Programming, Cybersecurity, QA)
-- 📚 Educator & project coordinator at **Sindeo Academy**
-- 👩‍💻 I love building interactive and meaningful learning experiences  
-- ⚡ I’m an active learner and AI tools explorer
+- 👩‍💻 Software development intern experience, focused on real-world projects with **C**, **JavaScript**, and **system-level scripting**
+- 🔧 Actively working with **Bash** and **C** to develop low-level tools and automate tasks (file handling, process control, CLI utilities)
+- 🌱 Fast learner, currently deepening my knowledge in **Java**
+- 🤝 Experience in remote teamwork and agile collaboration (Trello, GitHub Projects)
 
 ---
 
