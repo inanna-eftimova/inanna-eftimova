@@ -9,7 +9,7 @@
 ### 🔧 Technologies & Tools I work with:
 - Languages: `JavaScript`, `TypeScript`, `C++`, `Java (learning)`, `C`, `Shell`
 - Frontend: `React`, `Angular`, `HTML5`, `CSS3`
-- Tools: `Git`, `GitHub`, `Linux`, `VS Code`, `Trello`, `Jira`
+- Tools: `Git`, `GitHub`, `Linux`, `VS Code`, `Trello`
 
 ---
 
